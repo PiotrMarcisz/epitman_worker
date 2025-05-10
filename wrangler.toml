@@ -1,0 +1,6 @@
+name = "epitman-prerender"
+main = "worker.js"
+compatibility_date = "2025-05-10"
+
+[vars]
+PRERENDER_TOKEN = "wstaw_tutaj_token" # <- to nie trafi do kodu, tylko do środowiska
